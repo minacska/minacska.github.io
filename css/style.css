@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Mina";
+    src: url(/fonts/Oswald/Oswald-Bold);
+    font-weight: 500;
+}
+
+h1 {
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify
+}
